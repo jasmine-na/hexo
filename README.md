@@ -1,10 +1,10 @@
 # jasmine-na
 hexo博客
 
-# git init
+git init
 
-# git commit -m "first commit"
+git commit -m "first commit"
 
-# git remote add origin git@github.com:jasmine-na/jasmine-na.git
+git remote add origin git@github.com:jasmine-na/jasmine-na.git
 
-# git push -u origin master
+git push -u origin master
