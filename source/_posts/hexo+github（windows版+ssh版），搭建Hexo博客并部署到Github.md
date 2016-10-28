@@ -2,6 +2,8 @@
 title: hexo+github（windows版+ssh版），搭建Hexo博客并部署到Github
 date: 2016-10-27 13:59:18
 tags:
+ - hexo
+ - git
 ---
 ssh优点：http部署时每次要输入github用户名密码，ssh不需要。
 **首先走完http版**：http://blog.csdn.net/weixin_36401046/article/details/52942683

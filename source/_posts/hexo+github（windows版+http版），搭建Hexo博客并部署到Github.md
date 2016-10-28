@@ -2,6 +2,8 @@
 title: hexo+github（windows版+http版），搭建Hexo博客并部署到Github
 date: 2016-10-27 13:54:18
 tags:
+ - hexo
+ - git
 ---
 ![jojo's blog](http://img.blog.csdn.net/20161026182636997)
 

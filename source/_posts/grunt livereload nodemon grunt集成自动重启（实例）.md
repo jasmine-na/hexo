@@ -2,6 +2,8 @@
 title: grunt livereload nodemon grunt集成自动重启（实例）
 date: 2016-10-27 13:54:18
 tags:
+ - grunt
+ - livereload
 ---
 1、安装express-generator：
 

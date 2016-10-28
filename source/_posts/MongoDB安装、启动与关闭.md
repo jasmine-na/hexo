@@ -2,6 +2,7 @@
 title: 如何在Mac OS X中开启或关闭显示隐藏文件命令
 date: 2016-10-27 13:54:18
 tags:
+ - MongoDB
 ---
 安装包下载地址：[mongodb-win32-x86_64-2.6.6](http://pan.baidu.com/s/1eRGWWXs)
 

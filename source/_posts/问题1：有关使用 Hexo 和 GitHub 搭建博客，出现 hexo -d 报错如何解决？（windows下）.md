@@ -2,6 +2,8 @@
 title: 问题1：有关使用 Hexo 和 GitHub 搭建博客，出现 hexo -d 报错如何解决？（windows下）
 date: 2016-10-27 13:54:18
 tags:
+ - hexo
+ - git
 ---
 
 ```

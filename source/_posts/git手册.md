@@ -2,6 +2,7 @@
 title: git手册
 date: 2016-10-27 13:54:18
 tags:
+ - git
 ---
 
 git init                                                  # 初始化本地git仓库（创建新仓库）
