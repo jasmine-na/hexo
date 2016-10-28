@@ -4,6 +4,7 @@ menu:
   文章: '/archives'
  #随笔: '/categories/note'
   标签: '/tags'
+  相册: '/photos'
   留言: '/feedback'
 
 rss: '/atom.xml'

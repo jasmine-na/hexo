@@ -108,6 +108,12 @@ require([], function (){
     $("#fold-comments").click(function(){
 		$(".comments-main").slideDown(500), $("#fold-comments").hide()
 	});
-
+    
+    //相册
+    if($(".instagram").length) {
+        require(['/js/photo.js', '/fancybox/jquery.fancybox.js', '/js/jquery.lazyload.min.js'], function(obj) {
+           photos.init();
+        });
+    }
 	
 });
