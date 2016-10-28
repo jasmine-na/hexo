@@ -31,7 +31,7 @@ open_in_new: false
 # favicon: '/img/favicon.ico'
 
 #头像url
-avatar: 'http://7xrcp8.com1.z0.glb.clouddn.com/avatar.png'
+avatar: 'https://jasmine-na.github.io/img/avatar.jpg'
 
 #网站快捷方式显示在桌面的图标
 # apple_touch_icon: 'http://weibo.com/favicon.ico'

@@ -1,7 +1,7 @@
 
 var photos={
             page: 1,
-            offset: 20,
+            offset: 100,
             init: function () {
                 var that = this;
                 $.getJSON("/photos/data.json", function (data) {
@@ -16,10 +16,12 @@ var photos={
                 var end = this.page * this.offset;
                 if (begin >= data.length) return;
                 var html, li = "";
+                //var imgAdr="https://github.com/jasmine-na/jasmine-na/blob/master/photos/";
+                var imgAdr="http://ofrnf8g02.bkt.clouddn.com/";
                 for (var i = begin; i < end && i < data.length; i++) {
                     li += '<li><div class="img-box">' +
-                        '<a class="img-bg" rel="example_group" href="https://github.com/jasmine-na/jasmine-na/blob/master/photos/' + data[i] + '?raw=true"></a>' +
-                        '<img lazy-src="https://github.com/jasmine-na/jasmine-na/blob/master/photos/' + data[i] + '?raw=true" src="https://github.com/jasmine-na/jasmine-na/blob/master/photos/' + data[i] + '?raw=true" />' +
+                        '<a class="img-bg" rel="example_group" href="'+imgAdr+ data[i] + '?raw=true"></a>' +
+                        '<img lazy-src="'+imgAdr + data[i] + '?raw=true" src="'+imgAdr + data[i] + '?raw=true" />' +
                         '</li>';
                 }
 
