@@ -2,7 +2,7 @@
 title: web开发时自动刷新网页：liveReload安装，sublime 3
 date: 2016-10-28 13:48:18
 tags:
- - liveReload
+ - livereload
  - sublime
 ---
 需要插件
