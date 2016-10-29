@@ -6,6 +6,7 @@ menu:
   标签: '/tags'
   相册: '/photos'
   留言: '/feedback'
+  关于我: /aboutme/
 
 rss: '/atom.xml'
 
