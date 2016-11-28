@@ -1,5 +1,5 @@
 ---
-title: 如何在Mac OS X中开启或关闭显示隐藏文件命令
+title: MongoDB安装、启动与关闭
 date: 2016-10-27 13:54:18
 tags:
  - MongoDB
