@@ -23,7 +23,7 @@ jasmine-na
 npm install -g hexo
 
 # 克隆项目
-git clone https://github.com/jasmine-na/jasmine-na.git
+git clone https://github.com/jasmine-na/hexo.git
 
 # 下载依赖install dependencies
 npm install
